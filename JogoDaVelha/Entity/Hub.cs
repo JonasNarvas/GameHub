@@ -15,10 +15,9 @@ namespace GameHub.Entity
             Console.WriteLine("1 - Inserir novo jogador");
             Console.WriteLine("2 - Deletar um jogador");
             Console.WriteLine("3 - Listar todos os jogadores registrados");
-            Console.WriteLine("4 - Detalhes de um jogador");
-            Console.WriteLine("5 - Jogar Jogo da Velha");
-            Console.WriteLine("6 - Jogar Batalha Naval | AVISO: AINDA NÃO COMPLETAMENTE FUNCIONAL");
-            Console.WriteLine("7 - Exibir ranking dos jogadores");
+            Console.WriteLine("4 - Jogar Jogo da Velha");
+            Console.WriteLine("5 - Jogar Batalha Naval | AVISO: AINDA NÃO COMPLETAMENTE FUNCIONAL");
+            //Console.WriteLine("6 - Exibir ranking dos jogadores");
             Console.WriteLine("0 - Sair do programa");
             Console.WriteLine("-----------------------------");
             Console.Write("Digite a opção desejada: ");
