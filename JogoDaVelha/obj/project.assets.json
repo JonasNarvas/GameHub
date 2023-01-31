@@ -14,9 +14,9 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Dell\\Documents\\Visual Studio 2022\\Csharp\\JogoDaVelha\\JogoDaVelha\\JogoDaVelha.csproj",
-      "projectName": "JogoDaVelha",
-      "projectPath": "C:\\Users\\Dell\\Documents\\Visual Studio 2022\\Csharp\\JogoDaVelha\\JogoDaVelha\\JogoDaVelha.csproj",
+      "projectUniqueName": "C:\\Users\\Dell\\Documents\\Visual Studio 2022\\Csharp\\JogoDaVelha\\JogoDaVelha\\GameHub.csproj",
+      "projectName": "GameHub",
+      "projectPath": "C:\\Users\\Dell\\Documents\\Visual Studio 2022\\Csharp\\JogoDaVelha\\JogoDaVelha\\GameHub.csproj",
       "packagesPath": "C:\\Users\\Dell\\.nuget\\packages\\",
       "outputPath": "C:\\Users\\Dell\\Documents\\Visual Studio 2022\\Csharp\\JogoDaVelha\\JogoDaVelha\\obj\\",
       "projectStyle": "PackageReference",

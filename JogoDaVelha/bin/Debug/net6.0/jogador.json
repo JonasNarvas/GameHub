@@ -1,0 +1,20 @@
+[
+  {
+    "Nome": "Jonas",
+    "Usuario": "Jooj",
+    "Senha": "123",
+    "VitoriasTotais": 0,
+    "VitoriasJDV": 0,
+    "VitoriasBN": 0,
+    "Empates": 0
+  },
+  {
+    "Nome": "Jessica",
+    "Usuario": "Jess",
+    "Senha": "iop",
+    "VitoriasTotais": 0,
+    "VitoriasJDV": 0,
+    "VitoriasBN": 0,
+    "Empates": 0
+  }
+]
