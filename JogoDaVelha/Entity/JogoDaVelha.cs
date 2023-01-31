@@ -209,8 +209,7 @@ namespace GameHub.Entity
                     Console.WriteLine($"Quantidade de vitórias: {jogador2.VitoriasTotais}");
                     Console.WriteLine($"Quantidade de empates: {jogador2.Empates}");
                     Console.WriteLine("Encerrando programa...");
-                    repository.LerTodosESalvar(jogador1, jogador1.VitoriasTotais, jogador1.Empates);
-                    repository.LerTodosESalvar(jogador2, jogador2.VitoriasTotais, jogador2.Empates);
+                    
                     
 
                 }
